@@ -1,6 +1,6 @@
 ---
 applications:
- - name: kca-south
+ - name: HolaKloud7G
    random-route: false
    memory: 128M
 
